@@ -13,3 +13,7 @@ console.log("não está")
 function recurso() {
   return true
 }
+
+function javascript20() {
+  return "SHOW"
+}
