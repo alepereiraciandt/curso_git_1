@@ -10,3 +10,6 @@ console.log("Estou testando")
 
 console.log("não está")
 
+function recurso() {
+  return true
+}
