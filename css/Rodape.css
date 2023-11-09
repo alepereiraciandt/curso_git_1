@@ -1,3 +1,7 @@
 p {
   pixel: 32px;
 }
+
+h1 {
+  pixel: 42;
+}
